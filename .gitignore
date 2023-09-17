@@ -4,3 +4,5 @@ ISIC_2019_Training_Input/ISIC_2019_Training_Input/
 ISIC_2019_Training_GroundTruth.csv
 ISIC_2019_Training_Metadata.csv
 preprocessed_image_data.npy
+x_train.npy
+x_test.npy
