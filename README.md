@@ -19,6 +19,9 @@ The dataset for ISIC 2019 contains 25,331 images available for the classificatio
 
 https://www.kaggle.com/datasets/andrewmvd/isic-2019
 
+## attribution for dataset
+https://creativecommons.org/licenses/by-nc/4.0/
+
 
 ## How to use this dataset
 Merge External Data by Alex Shonenkov
