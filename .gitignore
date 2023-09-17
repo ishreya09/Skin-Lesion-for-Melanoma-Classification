@@ -1,1 +1,6 @@
-/content/ISIC_2019_Training_Input
+ISIC_2019_Training_Input
+kaggle.json
+ISIC_2019_Training_Input/ISIC_2019_Training_Input/
+ISIC_2019_Training_GroundTruth.csv
+ISIC_2019_Training_Metadata.csv
+preprocessed_image_data.npy
