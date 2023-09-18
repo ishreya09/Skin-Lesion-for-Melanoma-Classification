@@ -8,3 +8,8 @@ x_train.npy
 x_test.npy
 y_train.npy
 y_test.npy
+pca_b.pkl
+pca_g.pkl
+pca_r.pkl
+X_train_pca.npy
+X_test_pca.npy
